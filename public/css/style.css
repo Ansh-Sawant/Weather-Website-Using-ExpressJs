@@ -112,6 +112,12 @@ body {
   filter: drop-shadow(0 0.5rem 1rem rgba(0, 0, 0, 0.4));
 }
 
+/* Error Page */
+.errimg img {
+  width: 60rem;
+  height: 30rem;
+}
+
 /* Footer */
 footer {
   width: 100%;
